@@ -8,7 +8,7 @@ export default function Navbar() {
         <h1 className="mb-2 text-3xl text-center">Todo</h1>
         <div className="flex items-center justify-center gap-4">
           <Link to="/">Home</Link>
-          <Link to="/create">Add todo</Link>
+          <Link to="/create">New todo</Link>
         </div>
       </div>
     </nav>
